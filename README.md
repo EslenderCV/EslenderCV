@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 
 🫱🏻‍🫲🏽 This is Eslender
+
 📚 I'm currently learning Full Stack Devolpment
+
 🤨 Ask me anything you need to know about my little projects
+
 📨 How to reach me: eslendercruz45@gmail.com
+
 🙆🏻‍♂️ Feel free to provide your thoughts and sugestions 
 about my projects. There's always something new to learn
 
